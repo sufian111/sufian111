@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...MERN Stack Website
-- 🌱 I’m currently learning ...Programming Hero!
+- 🌱 I’m currently learning ...Node!
 - 👯 I’m looking to collaborate on ...any interesting project
 - 🤔 I’m looking for help with Aws
 - 💬 Ask me about ...anything
@@ -22,8 +22,13 @@ Here are some ideas to get you started:
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/he.can.77/)
 
 ### Hire Me!
-[Resume](https://drive.google.com/file/d/1UMh81PmPCYbTm0cj1Ik4_AVCSg2lC8uA/view)
+
+### 📑 My Resume:
+
+##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1NJW0e6-CK0JMo6bwyyBdW4xPFh9MWN3G/view)
+
 <br />
+
 
 ### Languages and Tools:
 
