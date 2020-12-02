@@ -2,7 +2,7 @@
 ### Here is What I'm Working on! 👋
 
 
-## I'm a 😍😍 React Lover 😍😍!
+## I'm a 😍😍 JavaScript Lover 😍😍!
 
 Here are some ideas to get you started:
 
