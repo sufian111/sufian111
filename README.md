@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...[my_Website](https://mdabusufian.netlify.app/)
 - 😄 Pronouns: ...He / Him
-- 🥅 2020 Goals: Improve Php,Mysql, Node.js
+- 🥅 2021 Goals: Improve Php,Mysql, Node.js
 - ⚡ Fun fact: ...I am also National Shooting Player
 -->
 ### Connect with me:
