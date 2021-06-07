@@ -11,15 +11,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...any interesting project
 - 🤔 I’m looking for help with Aws
 - 💬 Ask me about ...anything
-- 📫 How to reach me: ...[my_Website](https://mdabusufian.netlify.app/)
+- 📫 How to reach me: ...[my_Website](https://mdabusufian.com/)
 - 😄 Pronouns: ...He / Him
 - 🥅 2021 Goals: Improve Php,Mysql, Node.js
 - ⚡ Fun fact: ...I am also National Shooting Player
 -->
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sufian111/)  
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/he.can.77/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-abu-sufian-rabbi-raj/)  
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/Md.Abu.Sufian.Rabbi.Raj/)
 
 ### Hire Me!
 
